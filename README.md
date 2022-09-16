@@ -8,7 +8,7 @@
 💬 I would love to talk about open source and accessibility.    
 👨‍💻 My portfolio is available at https://emmadawson.dev   
 📫 How to reach me: emma.l.dawson@gmail.com    
-📸 [My youtube channel](https://www.youtube.com/channel/UCNqgIdr3ycieeS9xZu1HYfg)
+📸 [My youtube channel](https://www.youtube.com/channel/UCNqgIdr3ycieeS9xZu1HYfg)  
 🔆 [Accessible For All - My Github Organization](https://github.com/AccessibleForAll)
 
 
