@@ -2,10 +2,10 @@
 
 
 
-🎓 I'm soon to start working as a software developer consultant.   
+🎓 I work as a software developer consultant at Futurice in Stockholm    
 🔭 In my spare time I'm working on open source accessibility projects   
 🌱 I’m currently learning Next.js    
-💬 I would love to talk about open source and accessibility.    
+💬 I would love to talk about open source and accessibility      
 👨‍💻 My portfolio is available at https://emmadawson.dev   
 📫 How to reach me: emma.l.dawson@gmail.com    
 📸 [My youtube channel](https://www.youtube.com/channel/UCNqgIdr3ycieeS9xZu1HYfg)  
