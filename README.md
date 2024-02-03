@@ -3,8 +3,7 @@
 
 
 🎓 I work as a software developer consultant at Futurice in Stockholm    
-🔭 In my spare time I'm working on open source accessibility projects   
-🌱 I’m currently learning Next.js    
+🔭 In my spare time I'm working on open source accessibility projects       
 💬 I would love to talk about open source and accessibility      
 👨‍💻 My portfolio is available at https://emmadawson.dev   
 📫 How to reach me: emma.l.dawson@gmail.com    
