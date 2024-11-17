@@ -2,7 +2,7 @@
 
 
 
-🎓 I work as a software developer consultant at Futurice in Stockholm    
+🎓 I work as a web developer and accessibility specialist at Axess Lab in Stockholm    
 🔭 In my spare time I'm working on open source accessibility projects       
 💬 I would love to talk about open source and accessibility      
 👨‍💻 My portfolio is available at https://emmadawson.dev   
